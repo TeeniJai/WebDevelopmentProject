@@ -1,0 +1,38 @@
+body {
+    background-color: #FAD961;
+    background-image: linear-gradient(135deg, #FAD961 0%, #F76B1C 100%);
+}
+.reservation-button {
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    left: 1100px;
+    top: 13px;
+
+    background: #FF9922;
+    border-radius: 15px;
+    font-size: 22px;
+}
+.carousel-image {
+    
+    
+    margin: auto;
+}
+.carousel-item {
+    height: 675px;
+}
+
+.navbar-brand {
+    font-size: 22px;
+}
+.active {
+    text-decoration: underline;
+}
+.nav-item:hover {
+    text-decoration: underline;
+}
+.navbar {
+    font-size: 18px;
+    padding-left: 100px;
+    background-color: #FDFAA8 !important;
+}
