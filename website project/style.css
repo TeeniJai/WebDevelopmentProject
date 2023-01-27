@@ -36,3 +36,16 @@ body {
     padding-left: 100px;
     background-color: #FDFAA8 !important;
 }
+h2{
+
+    margin-top: 40px;
+    margin-left: 250px;
+
+}
+.main{
+    display: flex;
+}
+.main  p{
+    font-size: larger;
+text-align: center;
+}
