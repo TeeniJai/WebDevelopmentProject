@@ -6,12 +6,9 @@ body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .reservation-button {
-    position: absolute;
+    float: right;
     width: 150px;
     height: 35px;
-    left: 1100px;
-    top: 13px;
-
     background: #FF9922;
     border-radius: 15px;
     font-size: 22px;
@@ -42,7 +39,6 @@ body {
 }
 h2{
     margin-top: 50px;
-    margin-left: 650px;
 }
 .main{
     display: flex;
@@ -59,6 +55,7 @@ h3 {
 }
 
 footer {
+    bottom: 0;
     text-align: center;
     font-size: 20px;
     padding: 3px;
@@ -67,6 +64,18 @@ footer {
     background-color: rgb(255, 189, 132);
     width: 100%;
     margin: 50px 0px 0px 0px;
+}
+.contact {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    font-size: 20px;
+    padding: 3px;
+    padding-top: 15px;
+    height: 150px;
+    background-color: rgb(255, 189, 132);
+    width: 100%;
+    margin: 50px 0px 0px 0px;  
 }
 .facebook {
     width: auto;
@@ -81,4 +90,8 @@ footer {
 .twitter {
     width: auto;
     height: 60px;
+}
+.card {
+    width: 18rem;
+    margin-bottom: 25px;
 }
