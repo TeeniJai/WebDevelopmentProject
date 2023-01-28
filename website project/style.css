@@ -38,7 +38,8 @@ body {
     background-color: #FDFAA8 !important;
 }
 h2{
-    margin-top: 50px;
+    padding-top: 50px;
+    margin-bottom: 50px;
 }
 .main{
     display: flex;
@@ -50,8 +51,6 @@ text-align: center;
 h3 {
     margin-top: 50px;
     margin-left: 100px;
-
-
 }
 
 footer {
