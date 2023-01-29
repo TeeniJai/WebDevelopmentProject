@@ -64,6 +64,29 @@ footer {
     width: 100%;
     margin: 50px 0px 0px 0px;
 }
+
+.contactpage{
+    display: grid;
+    margin-top: 45px;
+    
+}
+
+.map{
+    margin-top: -27%;
+    position: inherit;
+    margin-left: 800px;
+    width: 600px;
+    height: 400px;
+}
+
+.contacttext{
+    line-height: 60px;
+    margin-left: 100px;
+    height: auto;
+    text-align: left;
+    
+}
+
 .contact {
     position: absolute;
     bottom: 0;
